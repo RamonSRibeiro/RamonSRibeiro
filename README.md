@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Ramon da Silva Ribeiro
 
-<!--
-**RamonSRibeiro/RamonSRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Engenharia de Software** na Univassouras  
+💻 Apaixonado por **Desenvolvimento Web** e por **Tecnologia**  
+🔭 Atualmente focado em aprender **React** e desenvolver projetos em **Node.js**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RamonSRibeiro&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonSRibeiro&layout=compact&theme=radical)
+
+---
+
+## 🌍 Conecte-se comigo
+
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+
+
+
+
