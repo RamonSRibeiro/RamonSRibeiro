@@ -11,7 +11,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
@@ -26,7 +25,7 @@
 
 ## 🌍 Conecte-se comigo
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/ramon-ribeiro2002/)
 
 
 
