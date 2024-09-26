@@ -14,8 +14,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange)
-![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue)
 
 ---
 
